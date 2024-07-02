@@ -19,7 +19,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Windows 10</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
-Setting up and Configuring a Support Group assembled of the following
+Setting up and Configuring a Support Group assembled of the following For usage
 - Agents
 - Teams 
 - Users
@@ -29,13 +29,15 @@ Setting up and Configuring a Support Group assembled of the following
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![agents osticket](https://github.com/AaronWhiteTech/post-install-config/assets/155200818/bda57c80-adb3-4533-baa9-33c886a2a058)
+" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-
+<img src="![teams](https://github.com/AaronWhiteTech/post-install-config/assets/155200818/8ee74072-c2da-43ce-8b1e-bf03d91a7984)
+"/>
 <p>
 <img src="![Screenshot 2024-06-27 190609](https://github.com/AaronWhiteTech/post-install-config/assets/155200818/d92d5032-1b8d-4756-b166-1aa744e00a8c)
 %" alt="Disk Sanitization Steps"/>
